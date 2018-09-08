@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Threading;
 
-namespace AqwProxy
+namespace SfsProxy
 {
     class Program
     {
