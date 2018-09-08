@@ -1,9 +1,0 @@
-C:\Users\Eetu\Documents\Visual Studio 2017\Projects\PipeTests.Proxy\PipeTests.Proxy\bin\Debug\netcoreapp2.1\PipeTests.Proxy.deps.json
-C:\Users\Eetu\Documents\Visual Studio 2017\Projects\PipeTests.Proxy\PipeTests.Proxy\bin\Debug\netcoreapp2.1\PipeTests.Proxy.dll
-C:\Users\Eetu\Documents\Visual Studio 2017\Projects\PipeTests.Proxy\PipeTests.Proxy\obj\Debug\netcoreapp2.1\PipeTests.Proxy.csprojAssemblyReference.cache
-C:\Users\Eetu\Documents\Visual Studio 2017\Projects\PipeTests.Proxy\PipeTests.Proxy\obj\Debug\netcoreapp2.1\PipeTests.Proxy.csproj.CoreCompileInputs.cache
-C:\Users\Eetu\Documents\Visual Studio 2017\Projects\PipeTests.Proxy\PipeTests.Proxy\obj\Debug\netcoreapp2.1\PipeTests.Proxy.AssemblyInfoInputs.cache
-C:\Users\Eetu\Documents\Visual Studio 2017\Projects\PipeTests.Proxy\PipeTests.Proxy\obj\Debug\netcoreapp2.1\PipeTests.Proxy.AssemblyInfo.cs
-C:\Users\Eetu\Documents\Visual Studio 2017\Projects\PipeTests.Proxy\PipeTests.Proxy\bin\Debug\netcoreapp2.1\PipeTests.Proxy.pdb
-C:\Users\Eetu\Documents\Visual Studio 2017\Projects\PipeTests.Proxy\PipeTests.Proxy\obj\Debug\netcoreapp2.1\PipeTests.Proxy.dll
-C:\Users\Eetu\Documents\Visual Studio 2017\Projects\PipeTests.Proxy\PipeTests.Proxy\obj\Debug\netcoreapp2.1\PipeTests.Proxy.pdb
