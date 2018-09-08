@@ -718,11 +718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eetu\\Documents\\Visual Studio 2017\\Projects\\PipeTests.Proxy\\PipeTests.Proxy\\PipeTests.Proxy.csproj",
+      "projectUniqueName": "C:\\Users\\Eetu\\Documents\\Test-Proxy-System.IO.Pipelines\\PipeTests.Proxy\\PipeTests.Proxy.csproj",
       "projectName": "PipeTests.Proxy",
-      "projectPath": "C:\\Users\\Eetu\\Documents\\Visual Studio 2017\\Projects\\PipeTests.Proxy\\PipeTests.Proxy\\PipeTests.Proxy.csproj",
+      "projectPath": "C:\\Users\\Eetu\\Documents\\Test-Proxy-System.IO.Pipelines\\PipeTests.Proxy\\PipeTests.Proxy.csproj",
       "packagesPath": "C:\\Users\\Eetu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eetu\\Documents\\Visual Studio 2017\\Projects\\PipeTests.Proxy\\PipeTests.Proxy\\obj\\",
+      "outputPath": "C:\\Users\\Eetu\\Documents\\Test-Proxy-System.IO.Pipelines\\PipeTests.Proxy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

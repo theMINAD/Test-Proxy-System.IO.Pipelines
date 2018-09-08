@@ -736,11 +736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eetu\\Documents\\Visual Studio 2017\\Projects\\PipeTests.Proxy\\SfsProxy\\SfsProxy.csproj",
+      "projectUniqueName": "C:\\Users\\Eetu\\Documents\\Test-Proxy-System.IO.Pipelines\\SfsProxy\\SfsProxy.csproj",
       "projectName": "SfsProxy",
-      "projectPath": "C:\\Users\\Eetu\\Documents\\Visual Studio 2017\\Projects\\PipeTests.Proxy\\SfsProxy\\SfsProxy.csproj",
+      "projectPath": "C:\\Users\\Eetu\\Documents\\Test-Proxy-System.IO.Pipelines\\SfsProxy\\SfsProxy.csproj",
       "packagesPath": "C:\\Users\\Eetu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eetu\\Documents\\Visual Studio 2017\\Projects\\PipeTests.Proxy\\SfsProxy\\obj\\",
+      "outputPath": "C:\\Users\\Eetu\\Documents\\Test-Proxy-System.IO.Pipelines\\SfsProxy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -759,8 +759,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Eetu\\Documents\\Visual Studio 2017\\Projects\\PipeTests.Proxy\\PipeTests.Proxy\\PipeTests.Proxy.csproj": {
-              "projectPath": "C:\\Users\\Eetu\\Documents\\Visual Studio 2017\\Projects\\PipeTests.Proxy\\PipeTests.Proxy\\PipeTests.Proxy.csproj"
+            "C:\\Users\\Eetu\\Documents\\Test-Proxy-System.IO.Pipelines\\PipeTests.Proxy\\PipeTests.Proxy.csproj": {
+              "projectPath": "C:\\Users\\Eetu\\Documents\\Test-Proxy-System.IO.Pipelines\\PipeTests.Proxy\\PipeTests.Proxy.csproj"
             }
           }
         }
